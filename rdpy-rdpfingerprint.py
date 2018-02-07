@@ -57,6 +57,8 @@ hashes = {
     "384:UM+mdpdsAWPwAbmBPZLlcDBY+HOcLNQuxbOif0z:UMnHdWPwAbWPoD9RmwOifW" : "Windows 7 Enterprise",
     "192:W/LTKfZMryUPTnFp15Sdj32fYVTgzzb1A:UwMxXSdj32ITgzPi -- See s-172.16.17.60.jpg" : "Windows 7 Enterprise",
     "192:W/TkUOZIxniicLLKadDE9T7mG0yEYsoFp15SdhqyfrMOk0bM:UBOZmiiQWJ9eG0y8gXSdhHfrMOkD" : "Windows 7 Enterprise",
+    "384:U2KgnTGn+Rivf85jncrTIZnNVWAY9MRUn+Qq:U2RnG2crTIvV5vT" : "Windows 7 Enterprise",
+    "768:Ulq3cKSKoCxPkmCOKfcelvDpEEyUgK8K8K8AwOu:UlIcGoXm7ecAgK8K8K8n" : "Windows 7 Enterprise",
 
     # Windows 7 Professional
     "384:UBOZSiM+VGkt66pLvg8sK9OufOXALNdTRxNab:UkZSxIrY6RY8sKfzfNc" : "Windows 7 Professional",
@@ -74,6 +76,9 @@ hashes = {
     "384:UBcRt9SuXJPralJ5a/2gzjOmpvN6O3lZWcea6:UkKEzjfpvNfZWZa6" : "Windows 7 Embedded Standard",
     "192:W/TkUOc41dzikFw/K9QqZAsZn1ZQA8C8/vceqa7ezBjJA:UBOc4mV/K9nZAU1ZWcea6" : "Windows 7 Enbedded Standard",
 
+    # Windows Embedded
+    "24:49YMW10o0XxDuLHeOWXG4OZ7DAJuLHenX3+:49YMAFuERA4" : "Windows Embedded Standard",
+
     # Windows Server 2003 Standard
     "384:UEoYb6LNdmS7Jhhmp7IWOYg0DwSSZKaxjyESbaVhnE/gMJGZ:UEoYb6hd5j8ZFZZexWEhnE/gMJGZ" : "Windows Server 2003 Standard Edition",
     "384:UEoYb6LNdmS7Jhhmp7IWOYg0DwSSZKa7kzfpVDaY9jHvJc66c:UEoYb6hd5j8ZFZZeIdF9jJc66c" : "Windows Server 2003 Standard Edition",
@@ -87,6 +92,7 @@ hashes = {
     "384:Ubs3S2GItvR8xYABuFQmItSFzR4UNUTSzPw0S7qZvj000mSjGeTqgFa:Ubb235RsYAQOt5TEw0mqZvFmG4qka" : "Windows Server 2003 R2 Enterprise Edition",
     "768:UX6OIUQeUP2qwwlklOxx2oqoEvT9WLn6iIjSW:UX6OIac9lklYWT96dIjf" : "Windows Server 2003 R2 Enterprise Edition",
     "384:Ubs3S2GItvR8xYABuFQmItSFzR4UNUTSzPw0S5eWchhhVd/WwJupyppppppg:Ubb235RsYAQOt5TEw03zUx" : "Windows Server 2003 R2 Enterprise Edition",
+    "768:UXTuqHISuH0Dlu1EXldmh5HYP6QVL7qUGkpXAWOx+sfrd:UXy0wylueXldI4P6QVPq/kpXhOXd" : "Windows Server 2003 R2 Enterprise Edition",
 
     # Windows Server 2008 Standard
     "384:UqAA+/IL79c/JJJJOVsrHTduHyTOfMfOC99Q24yuUmnkl5dyg:UqAN/IX6WVsrHORS3buXne5dyg" : "Windows Server 2008 Standard",
@@ -126,7 +132,7 @@ hashes = {
     "768:U8nIBz6wCtfdrhEme4VP8555fnXXX9HjXk4QKbhKbP9EZQXNA6r6wZ:U8nOmwYfdL3I55djXhKLPeY" : "Windows XP Professional",
     "768:U5EwmiPf7V1ofYekd/XUPDTr4+ovTZAo7XHxwY:U5pmmfXo5uPeDTE+tGh" : "Windows XP Professional",
     "384:UVb1UDUwpBwCH27VisjftCMYezp4ReKHCP3eeeeev:U5EwmiPf7V9y" : "Windows XP Professional",
-
+    "768:UZJ1etXyVmmxvdrRRilB4vTVVVVVVVVVVVVVG/RNtCd:UZJktizxFE35NtCd " : "Windows XP Professional",
 }
 
 def check_ssdeep_hash(path):
