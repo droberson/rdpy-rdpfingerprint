@@ -135,7 +135,8 @@ hashes = {
     "768:U8nIBz6wCtfdrhEme4VP8555fnXXX9HjXk4QKbhKbP9EZQXNA6r6wZ:U8nOmwYfdL3I55djXhKLPeY" : "Windows XP Professional",
     "768:U5EwmiPf7V1ofYekd/XUPDTr4+ovTZAo7XHxwY:U5pmmfXo5uPeDTE+tGh" : "Windows XP Professional",
     "384:UVb1UDUwpBwCH27VisjftCMYezp4ReKHCP3eeeeev:U5EwmiPf7V9y" : "Windows XP Professional",
-    "768:UZJ1etXyVmmxvdrRRilB4vTVVVVVVVVVVVVVG/RNtCd:UZJktizxFE35NtCd " : "Windows XP Professional",
+    "768:UZJ1etXyVmmxvdrRRilB4vTVVVVVVVVVVVVVG/RNtCd:UZJktizxFE35NtCd" : "Windows XP Professional",
+    "384:UVMgOW0UVzjkLWm2ONOIv0pCQEqQ7vO0jB/5gzyP4QuzhXV40k:UXffjkL3vlv7gQ7vO0jB+zOchXVe" : "Windows XP Professional",
 }
 
 def check_ssdeep_hash(path):
